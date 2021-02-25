@@ -1,1 +1,1 @@
-# devoterapp.githup.io
+# devoterapp.github.io
